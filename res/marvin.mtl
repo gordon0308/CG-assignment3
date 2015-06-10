@@ -1,0 +1,46 @@
+# Blender3D MTL File: 
+# Material Count: 4
+newmtl Material_RE2_Marvin_head_v00.d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.407843 0.407843
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd RE2_Marvin_head_v00.dds
+
+
+newmtl Material.002_RE2_Marvin_body_v00.d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.407843 0.407843
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd RE2_Marvin_body_v00.dds
+
+
+newmtl Material.001_RE2_Marvin_head_v00.d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.407843 0.407843
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd RE2_Marvin_head_v00.dds
+
+
+newmtl Material.003_RE2_Marvin_head_v00.d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.407843 0.407843
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd RE2_Marvin_head_v00.dds
+
+
